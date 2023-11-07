@@ -140,7 +140,9 @@ OPenID Connect
  Client-to-site VPN
 
 # SSL certificates (Single & Mutual)
-  
+
+![image](https://github.com/srijan9999/jcik/assets/148010653/975aad2e-7daf-43a9-bcbd-9f3dd0e2fda7)
+
  PKI Infrastructure
 
  Zero trust security
@@ -155,6 +157,8 @@ OPenID Connect
 
 # Load Balancers
 
+![image](https://github.com/srijan9999/jcik/assets/148010653/ac23c6d2-388a-4229-b7d1-5550c9c89700)
+
  L4 Load Balancers
  
  L7 Load Balancers
@@ -164,6 +168,8 @@ OPenID Connect
  Reverse Proxy
 
  # Container cluster managers
+ 
+![image](https://github.com/srijan9999/jcik/assets/148010653/f858db08-5794-4ad6-8425-40f4f2ecd9f6)
 
  Apache
     
@@ -177,13 +183,13 @@ OPenID Connect
  
  Amazon EC2 
  
- Container 
+Container 
  
- Service 
+Service 
  
- Docker 
+Docker 
  
- UCP 
+UCP 
  
 Docker 
 
