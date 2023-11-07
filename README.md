@@ -215,7 +215,7 @@ HTTP-based RESTful API
 
 Websocket-based API 
 
-** Components
+Components
 
 Transport back end
 
