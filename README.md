@@ -45,6 +45,13 @@ Software Stack
 SaaS
 
 IaaS - Infrastcuture as a Service
+
+Operating System
+Virtual Machine & Storage
+IP Addresses
+Provides Infrastrcture
+Enhanced Scalability
+Felxible
  
 PaaS
 
