@@ -42,18 +42,27 @@ User Interface
 
 Software Stack
 
-SaaS
+* SaaS - Software as a Service
 
-IaaS - Infrastcuture as a Service
+* IaaS - Infrastcuture as a Service
 
 Operating System
+
 Virtual Machine & Storage
+
 IP Addresses
+
 Provides Infrastrcture
+
 Enhanced Scalability
+
 Felxible
  
-PaaS
+* PaaS - Platform as a Service
+  UI are used can 't use OS
+
+* XaaS - X (Anything/Everything) as a Service
+
 
 # Networking
 
